@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.crop_trade_ai.twa",
+        "sha256_cert_fingerprints": ["93:8B:5E:35:DA:C2:31:E2:33:36:1B:B9:44:DB:92:C1:9B:0D:77:DE:68:51:C7:75:9A:BB:F3:DA:7D:A6:7A:36"]
+      }
+    }]
